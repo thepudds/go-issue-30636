@@ -1,4 +1,4 @@
-package main
+package foo
 
 import _ "gopkg.in/mattn/go-colorable"
 
